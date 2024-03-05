@@ -33,4 +33,4 @@ This program is a 3D wireframe model viewer developed in C++ according to the sp
 
 ## Contact
 
-If you have any questions or feedback, feel free to contact us at pouretudieretleisure@gmail.com
+If you have any questions or feedback, feel free to contact me at pouretudieretleisure@gmail.com
