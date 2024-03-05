@@ -27,8 +27,9 @@ This program is a 3D wireframe model viewer developed in C++ according to the sp
 ## Technologies Used
 
 - C++17
-- Google style coding guidelines
-- Makefile for building and managing the program
+- OpenGL
+- QT
+- Valgrind
 
 ## Contact
 
